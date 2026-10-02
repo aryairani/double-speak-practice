@@ -504,11 +504,14 @@
     $('#grade').addEventListener('click', grade);
     $('#new-round').addEventListener('click', startRound);
     $('#back-home').addEventListener('click', () => { renderHistory(); show('setup'); });
-    $('#clear-history').addEventListener('click', () => {
-      if (confirm('Clear your round history?')) { saveJSON(LS.history, []); renderHistory(); }
+    $('#clear-history').addEventListener('click', (e) => {
+      const b = e.currentTarget;
+      if (b.dataset.armed) { saveJSON(LS.history, []); renderHistory(); delete b.dataset.armed; b.textContent = 'Clear history'; return; }
+      b.dataset.armed = '1'; b.textContent = 'Click again to clear history';
+      setTimeout(() => { delete b.dataset.armed; b.textContent = 'Clear history'; }, 4000);
     });
     ['left', 'right'].forEach((side) => $(`#retell-${side}`).addEventListener('input', updateWordCounts));
-    if (SR) {
+    if (SR && !window.DSP_NO_DICTATION) {
       $$('.dictate').forEach((b) => { b.hidden = false; b.addEventListener('click', () => toggleDictation(b.dataset.side)); });
     }
     $('#show-scoring').addEventListener('click', (e) => { e.preventDefault(); $('#scoring-dialog').showModal(); });
