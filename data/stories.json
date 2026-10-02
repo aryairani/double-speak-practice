@@ -1,0 +1,2116 @@
+[
+  {
+    "id": "marisol",
+    "title": "Marisol, the welder who paints tiles",
+    "text": "Marisol was born in Duluth, Minnesota, the youngest of four children. At seventeen she took a summer job at the grain harbor and ended up staying nine years, training as a welder. She married Oskar, a tugboat captain, and they lived on the water for most of their thirties. When she turned forty-one they moved to Lisbon, where she opened a small shop selling hand-painted tiles. She collects antique typewriters, which she repairs on Sunday mornings, and shares her apartment with a parrot named Biscuit who whistles the first bars of the national anthem.",
+    "facts": [
+      {
+        "label": "Her name is Marisol",
+        "keys": [
+          "marisol"
+        ]
+      },
+      {
+        "label": "Born in Duluth, Minnesota",
+        "keys": [
+          "duluth",
+          "minnesota"
+        ]
+      },
+      {
+        "label": "Youngest of four children",
+        "keys": [
+          "youngest of 4",
+          "youngest of four",
+          "4 children",
+          "4 kids",
+          "4 siblings"
+        ]
+      },
+      {
+        "label": "Took a job at the grain harbor at seventeen",
+        "keys": [
+          "grain harbor",
+          "grain harbour",
+          "summer job",
+          "at 17"
+        ]
+      },
+      {
+        "label": "Trained as a welder",
+        "keys": [
+          "welder",
+          "weld"
+        ]
+      },
+      {
+        "label": "Married Oskar, a tugboat captain",
+        "keys": [
+          "oskar",
+          "tugboat",
+          "tug boat"
+        ]
+      },
+      {
+        "label": "Moved to Lisbon at forty-one",
+        "keys": [
+          "lisbon",
+          "portugal"
+        ]
+      },
+      {
+        "label": "Opened a shop selling hand-painted tiles",
+        "keys": [
+          "tiles",
+          "tile shop"
+        ]
+      },
+      {
+        "label": "Collects and repairs antique typewriters",
+        "keys": [
+          "typewriters",
+          "typewriter"
+        ]
+      },
+      {
+        "label": "Has a parrot named Biscuit",
+        "keys": [
+          "parrot",
+          "biscuit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tobias",
+    "title": "Tobias, from dairy farm to observatory",
+    "text": "Tobias grew up on a dairy farm outside Bern, Switzerland, and broke his arm at nine when he fell off a tractor. He studied astronomy in Edinburgh and then spent six years at an observatory in the Atacama Desert in Chile, where he says the night sky ruined him for city life. These days he teaches high school physics in Portland, Oregon. He has finished twelve marathons, and his daughter Greta runs the last mile of every one with him. On weekends he makes a hot sauce from habanero peppers that his students refuse to taste twice.",
+    "facts": [
+      {
+        "label": "His name is Tobias",
+        "keys": [
+          "tobias"
+        ]
+      },
+      {
+        "label": "Grew up on a dairy farm near Bern, Switzerland",
+        "keys": [
+          "dairy farm",
+          "dairy",
+          "bern",
+          "switzerland",
+          "swiss"
+        ]
+      },
+      {
+        "label": "Broke his arm at nine falling off a tractor",
+        "keys": [
+          "tractor",
+          "broke his arm",
+          "broken arm"
+        ]
+      },
+      {
+        "label": "Studied astronomy in Edinburgh",
+        "keys": [
+          "astronomy",
+          "astronomer",
+          "edinburgh"
+        ]
+      },
+      {
+        "label": "Spent six years at an observatory in Chile's Atacama Desert",
+        "keys": [
+          "observatory",
+          "atacama",
+          "chile"
+        ]
+      },
+      {
+        "label": "Teaches high school physics in Portland, Oregon",
+        "keys": [
+          "physics",
+          "portland",
+          "oregon"
+        ]
+      },
+      {
+        "label": "Has finished twelve marathons",
+        "keys": [
+          "marathon",
+          "marathons",
+          "12 marathons"
+        ]
+      },
+      {
+        "label": "Daughter Greta runs the last mile with him",
+        "keys": [
+          "greta",
+          "daughter",
+          "last mile"
+        ]
+      },
+      {
+        "label": "Makes habanero hot sauce on weekends",
+        "keys": [
+          "hot sauce",
+          "habanero",
+          "habaneros"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "priya",
+    "title": "Priya, the cardamom croissant baker",
+    "text": "Priya was born in Chennai, where her father worked as a cricket umpire. The family moved to Toronto when she was twelve, and she hated the cold until she discovered the bakery across the street. She trained as a pastry chef and became known for her cardamom croissants, which won a televised baking competition. The winnings let her open a bakery called Monsoon. She adopted a retired racing greyhound named Pickle, who sleeps under the counter, and at thirty-eight she started learning the cello because, as she puts it, croissants cannot be played at a funeral.",
+    "facts": [
+      {
+        "label": "Her name is Priya",
+        "keys": [
+          "priya"
+        ]
+      },
+      {
+        "label": "Born in Chennai, India",
+        "keys": [
+          "chennai",
+          "india",
+          "indian"
+        ]
+      },
+      {
+        "label": "Father was a cricket umpire",
+        "keys": [
+          "cricket",
+          "umpire"
+        ]
+      },
+      {
+        "label": "Moved to Toronto at twelve",
+        "keys": [
+          "toronto",
+          "canada at 12",
+          "when she was 12"
+        ]
+      },
+      {
+        "label": "Trained as a pastry chef",
+        "keys": [
+          "pastry chef",
+          "pastry",
+          "baker"
+        ]
+      },
+      {
+        "label": "Known for cardamom croissants",
+        "keys": [
+          "cardamom",
+          "croissants",
+          "croissant"
+        ]
+      },
+      {
+        "label": "Won a televised baking competition",
+        "keys": [
+          "baking competition",
+          "baking contest",
+          "televised",
+          "television",
+          "tv"
+        ]
+      },
+      {
+        "label": "Opened a bakery called Monsoon",
+        "keys": [
+          "monsoon"
+        ]
+      },
+      {
+        "label": "Adopted a greyhound named Pickle",
+        "keys": [
+          "greyhound",
+          "pickle"
+        ]
+      },
+      {
+        "label": "Started learning the cello at thirty-eight",
+        "keys": [
+          "cello",
+          "38"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "desmond",
+    "title": "Desmond, the ship's cook on a houseboat",
+    "text": "Desmond was born in Kingston, Jamaica, the sixth of seven children, and was raised mostly by his grandmother after his parents went abroad for work. He joined the merchant navy at nineteen as a ship's cook and spent two decades at sea, visiting more than sixty countries. He finally settled in Rotterdam, where he met his wife Annelies, a harbor pilot. Today he drives a canal tour boat and tells passengers stories that are only about half true. He lives on a houseboat where he grows orchids on every windowsill, and he still cannot sleep without the sound of water.",
+    "facts": [
+      {
+        "label": "His name is Desmond",
+        "keys": [
+          "desmond"
+        ]
+      },
+      {
+        "label": "Born in Kingston, Jamaica",
+        "keys": [
+          "kingston",
+          "jamaica",
+          "jamaican"
+        ]
+      },
+      {
+        "label": "Sixth of seven children",
+        "keys": [
+          "7 children",
+          "7 kids",
+          "6 of 7",
+          "6th of 7",
+          "sixth of seven",
+          "7 siblings"
+        ]
+      },
+      {
+        "label": "Raised mostly by his grandmother",
+        "keys": [
+          "grandmother",
+          "grandma"
+        ]
+      },
+      {
+        "label": "Joined the merchant navy at nineteen as a ship's cook",
+        "keys": [
+          "merchant navy",
+          "navy",
+          "ships cook",
+          "cook"
+        ]
+      },
+      {
+        "label": "Visited more than sixty countries",
+        "keys": [
+          "60 countries",
+          "60"
+        ]
+      },
+      {
+        "label": "Settled in Rotterdam",
+        "keys": [
+          "rotterdam",
+          "netherlands",
+          "holland",
+          "dutch"
+        ]
+      },
+      {
+        "label": "Wife Annelies is a harbor pilot",
+        "keys": [
+          "annelies",
+          "harbor pilot",
+          "harbour pilot"
+        ]
+      },
+      {
+        "label": "Drives a canal tour boat",
+        "keys": [
+          "canal tour",
+          "tour boat",
+          "tour boats",
+          "tours"
+        ]
+      },
+      {
+        "label": "Lives on a houseboat and grows orchids",
+        "keys": [
+          "houseboat",
+          "orchids",
+          "orchid"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ingrid",
+    "title": "Ingrid, the lawyer turned glassblower",
+    "text": "Ingrid was born in Tromsø, far above the Arctic Circle, where her mother worked as a veterinarian for reindeer herders. She studied law in Oslo and spent a decade as a corporate lawyer before quitting at thirty-three to become a glassblower. Her studio is now in Sedona, Arizona, and she is known for glass jellyfish lamps that glow blue in the dark. She keeps three beehives behind the studio and sells the honey at a farmers market. Her twin sons, Leif and Magnus, are learning to blow glass but mostly use the furnace to roast marshmallows.",
+    "facts": [
+      {
+        "label": "Her name is Ingrid",
+        "keys": [
+          "ingrid"
+        ]
+      },
+      {
+        "label": "Born in Tromsø, above the Arctic Circle",
+        "keys": [
+          "tromso",
+          "tromsø",
+          "arctic",
+          "norway",
+          "norwegian"
+        ]
+      },
+      {
+        "label": "Mother was a veterinarian for reindeer herders",
+        "keys": [
+          "veterinarian",
+          "vet",
+          "reindeer"
+        ]
+      },
+      {
+        "label": "Studied law in Oslo and worked as a lawyer",
+        "keys": [
+          "law",
+          "lawyer",
+          "oslo",
+          "legal"
+        ]
+      },
+      {
+        "label": "Quit at thirty-three to become a glassblower",
+        "keys": [
+          "glassblower",
+          "glass blower",
+          "glassblowing",
+          "blow glass",
+          "blows glass",
+          "33"
+        ]
+      },
+      {
+        "label": "Studio in Sedona, Arizona",
+        "keys": [
+          "sedona",
+          "arizona"
+        ]
+      },
+      {
+        "label": "Makes glass jellyfish lamps that glow blue",
+        "keys": [
+          "jellyfish",
+          "lamps",
+          "lamp"
+        ]
+      },
+      {
+        "label": "Keeps three beehives and sells honey",
+        "keys": [
+          "beehives",
+          "bees",
+          "beehive",
+          "honey",
+          "3 hives"
+        ]
+      },
+      {
+        "label": "Twin sons Leif and Magnus",
+        "keys": [
+          "leif",
+          "magnus",
+          "twin sons",
+          "twins"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kwame",
+    "title": "Kwame, the turbine engineer with a camera",
+    "text": "Kwame grew up in Kumasi, Ghana, in the back room of his father's goldsmith workshop. A scholarship took him to Munich to study engineering, and he spent fifteen years designing wind turbine blades. After moving to Cape Town he lost most of the hearing in his left ear in a workshop accident, and during his recovery he took up photography. His book of photographs of the fishing boats at Kalk Bay sold out two printings. He plays chess at tournament level, usually losing to his wife Yaa, who learned the game only to beat him.",
+    "facts": [
+      {
+        "label": "His name is Kwame",
+        "keys": [
+          "kwame"
+        ]
+      },
+      {
+        "label": "Grew up in Kumasi, Ghana",
+        "keys": [
+          "kumasi",
+          "ghana",
+          "ghanaian"
+        ]
+      },
+      {
+        "label": "Father was a goldsmith",
+        "keys": [
+          "goldsmith",
+          "gold smith"
+        ]
+      },
+      {
+        "label": "Scholarship to study engineering in Munich",
+        "keys": [
+          "munich",
+          "scholarship",
+          "germany",
+          "engineering"
+        ]
+      },
+      {
+        "label": "Designed wind turbine blades for fifteen years",
+        "keys": [
+          "wind turbine",
+          "turbine",
+          "turbines",
+          "15 years"
+        ]
+      },
+      {
+        "label": "Moved to Cape Town",
+        "keys": [
+          "cape town",
+          "south africa"
+        ]
+      },
+      {
+        "label": "Lost hearing in his left ear in an accident",
+        "keys": [
+          "hearing",
+          "deaf",
+          "left ear"
+        ]
+      },
+      {
+        "label": "Took up photography; published a book of fishing boat photos",
+        "keys": [
+          "photography",
+          "photographer",
+          "photographs",
+          "photos",
+          "fishing boats",
+          "kalk bay"
+        ]
+      },
+      {
+        "label": "Plays tournament-level chess",
+        "keys": [
+          "chess"
+        ]
+      },
+      {
+        "label": "Wife Yaa learned chess to beat him",
+        "keys": [
+          "yaa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "beatrice",
+    "title": "Beatrice, the nun who became a translator",
+    "text": "Beatrice grew up in Naples, Italy, in an apartment above her family's fish market. She entered a convent at twenty and left it at twenty-nine, saying she had simply run out of questions. She taught herself Arabic and Portuguese and now works in Marseille as a translator of crime novels. Every morning she swims in the sea, even in January. She lives with a one-eyed cat named Ferragosto and on Saturdays plays the accordion for tourists in the old port, which she says pays better than literature and involves fewer murders.",
+    "facts": [
+      {
+        "label": "Her name is Beatrice",
+        "keys": [
+          "beatrice"
+        ]
+      },
+      {
+        "label": "Grew up in Naples, Italy",
+        "keys": [
+          "naples",
+          "napoli",
+          "italy",
+          "italian"
+        ]
+      },
+      {
+        "label": "Family ran a fish market",
+        "keys": [
+          "fish market",
+          "fishmarket",
+          "fish monger",
+          "fishmonger"
+        ]
+      },
+      {
+        "label": "Was a nun from twenty to twenty-nine",
+        "keys": [
+          "nun",
+          "convent",
+          "at 20",
+          "29"
+        ]
+      },
+      {
+        "label": "Translates crime novels from Arabic and Portuguese",
+        "keys": [
+          "translator",
+          "translates",
+          "translation",
+          "crime novels",
+          "arabic",
+          "portuguese"
+        ]
+      },
+      {
+        "label": "Lives in Marseille",
+        "keys": [
+          "marseille",
+          "marseilles"
+        ]
+      },
+      {
+        "label": "Swims in the sea every morning",
+        "keys": [
+          "swims in the sea",
+          "swim in the sea",
+          "swimming",
+          "ocean",
+          "swims every morning",
+          "swim every morning",
+          "morning swim",
+          "swims"
+        ]
+      },
+      {
+        "label": "Has a one-eyed cat named Ferragosto",
+        "keys": [
+          "ferragosto",
+          "one eyed cat",
+          "cat"
+        ]
+      },
+      {
+        "label": "Plays the accordion for tourists in the old port",
+        "keys": [
+          "accordion",
+          "old port",
+          "tourists"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rafael",
+    "title": "Rafael, the goalkeeper dentist",
+    "text": "Rafael was born in Montevideo, Uruguay, where his father played bandoneon in a tango orchestra. He trained as a dentist but spent his twenties as a semi-professional goalkeeper, breaking his nose four times in the process. At thirty-five he moved to Melbourne, Australia, and opened a dental clinic for children, where the waiting room has a football goal painted on the wall. In the evenings he builds model ships inside bottles. He owns a tortoise named Churro who is older than he is, and he volunteers every summer with the surf lifesaving club.",
+    "facts": [
+      {
+        "label": "His name is Rafael",
+        "keys": [
+          "rafael",
+          "raphael"
+        ]
+      },
+      {
+        "label": "Born in Montevideo, Uruguay",
+        "keys": [
+          "montevideo",
+          "uruguay",
+          "uruguayan"
+        ]
+      },
+      {
+        "label": "Father played bandoneon in a tango orchestra",
+        "keys": [
+          "tango",
+          "bandoneon",
+          "orchestra"
+        ]
+      },
+      {
+        "label": "Trained as a dentist",
+        "keys": [
+          "dentist",
+          "dental",
+          "dentistry"
+        ]
+      },
+      {
+        "label": "Was a semi-professional goalkeeper",
+        "keys": [
+          "goalkeeper",
+          "goalie",
+          "goal keeper",
+          "football",
+          "soccer"
+        ]
+      },
+      {
+        "label": "Broke his nose four times",
+        "keys": [
+          "nose",
+          "4 times"
+        ]
+      },
+      {
+        "label": "Moved to Melbourne, Australia at thirty-five",
+        "keys": [
+          "melbourne",
+          "australia",
+          "35"
+        ]
+      },
+      {
+        "label": "Runs a dental clinic for children",
+        "keys": [
+          "clinic for children",
+          "childrens clinic",
+          "childrens dental",
+          "kids clinic",
+          "pediatric",
+          "paediatric",
+          "for kids"
+        ]
+      },
+      {
+        "label": "Builds model ships in bottles",
+        "keys": [
+          "ships in bottles",
+          "ship in a bottle",
+          "model ships",
+          "bottles",
+          "bottle"
+        ]
+      },
+      {
+        "label": "Has a tortoise named Churro",
+        "keys": [
+          "tortoise",
+          "turtle",
+          "churro"
+        ]
+      },
+      {
+        "label": "Volunteers with the surf lifesaving club",
+        "keys": [
+          "lifesaving",
+          "life saving",
+          "lifeguard",
+          "surf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hana",
+    "title": "Hana, the biathlete on late-night radio",
+    "text": "Hana grew up in Sapporo, Japan, in the apartment behind her parents' ski rental shop. She competed in biathlon for the national team and missed the Olympic squad by a single place, a fact she mentions only after two drinks. She became a radio weather forecaster, then moved to Reykjavik after marrying Einar, an Icelandic cod fisherman. She now hosts a late-night jazz program on the radio and spends the long winters knitting sweaters for her eleven nieces and nephews, each of whom gets a different animal on the front.",
+    "facts": [
+      {
+        "label": "Her name is Hana",
+        "keys": [
+          "hana",
+          "hannah"
+        ]
+      },
+      {
+        "label": "Grew up in Sapporo, Japan",
+        "keys": [
+          "sapporo",
+          "japan",
+          "japanese"
+        ]
+      },
+      {
+        "label": "Parents ran a ski rental shop",
+        "keys": [
+          "ski rental",
+          "ski shop",
+          "skis",
+          "ski"
+        ]
+      },
+      {
+        "label": "Competed in biathlon for the national team",
+        "keys": [
+          "biathlon",
+          "biathlete",
+          "national team"
+        ]
+      },
+      {
+        "label": "Missed the Olympic squad by one place",
+        "keys": [
+          "olympic",
+          "olympics",
+          "by 1 place",
+          "by a single place"
+        ]
+      },
+      {
+        "label": "Was a radio weather forecaster",
+        "keys": [
+          "weather",
+          "forecaster",
+          "forecast"
+        ]
+      },
+      {
+        "label": "Moved to Reykjavik, Iceland",
+        "keys": [
+          "reykjavik",
+          "iceland",
+          "icelandic"
+        ]
+      },
+      {
+        "label": "Married Einar, a cod fisherman",
+        "keys": [
+          "einar",
+          "fisherman",
+          "cod"
+        ]
+      },
+      {
+        "label": "Hosts a late-night jazz radio show",
+        "keys": [
+          "jazz",
+          "radio show",
+          "radio program",
+          "radio programme",
+          "radio host"
+        ]
+      },
+      {
+        "label": "Knits sweaters for her eleven nieces and nephews",
+        "keys": [
+          "knits",
+          "knitting",
+          "sweaters",
+          "sweater",
+          "nieces",
+          "nephews",
+          "11"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leonard",
+    "title": "Leonard, the trucker poet",
+    "text": "Leonard was born in Baton Rouge, Louisiana, and raised by his aunt Cordelia, who sang in a hotel bar. He drove long-haul trucks for thirty years and logged more than two million miles, writing poems in a notebook at truck stops along the way. The poems became a collection called Diesel Psalms, which won a national prize and surprised nobody more than Leonard. He retired to Asheville, North Carolina, where he restores old jukeboxes in his garage. His three-legged dog, Gumbo, rides along to every estate sale.",
+    "facts": [
+      {
+        "label": "His name is Leonard",
+        "keys": [
+          "leonard"
+        ]
+      },
+      {
+        "label": "Born in Baton Rouge, Louisiana",
+        "keys": [
+          "baton rouge",
+          "louisiana"
+        ]
+      },
+      {
+        "label": "Raised by his aunt Cordelia, a hotel bar singer",
+        "keys": [
+          "aunt",
+          "cordelia",
+          "singer",
+          "hotel bar"
+        ]
+      },
+      {
+        "label": "Drove long-haul trucks for thirty years",
+        "keys": [
+          "trucker",
+          "trucks",
+          "truck driver",
+          "long haul",
+          "30 years"
+        ]
+      },
+      {
+        "label": "Logged more than two million miles",
+        "keys": [
+          "2000000 miles",
+          "2000000",
+          "million miles"
+        ]
+      },
+      {
+        "label": "Wrote poems at truck stops",
+        "keys": [
+          "poems",
+          "poetry",
+          "poet",
+          "truck stops"
+        ]
+      },
+      {
+        "label": "Published a collection called Diesel Psalms that won a prize",
+        "keys": [
+          "diesel psalms",
+          "diesel",
+          "psalms",
+          "prize"
+        ]
+      },
+      {
+        "label": "Retired to Asheville, North Carolina",
+        "keys": [
+          "asheville",
+          "north carolina"
+        ]
+      },
+      {
+        "label": "Restores old jukeboxes",
+        "keys": [
+          "jukeboxes",
+          "jukebox",
+          "juke box"
+        ]
+      },
+      {
+        "label": "Three-legged dog named Gumbo",
+        "keys": [
+          "gumbo",
+          "3 legged",
+          "3 legs"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zofia",
+    "title": "Zofia, the cryptographer who sells maps",
+    "text": "Zofia was born in Kraków, Poland, where her mother drove a tram on the number eight line. She won a national mathematics olympiad at fifteen and later worked as a cryptographer for a bank in Zurich, breaking codes for a living, as she liked to say. At forty she left banking to open a bookshop in Lyon, France, specializing in antique maps. She writes a weekly crossword for a Lyon newspaper, has climbed Mont Blanc three times, and runs a rescue for injured hedgehogs out of her back garden.",
+    "facts": [
+      {
+        "label": "Her name is Zofia",
+        "keys": [
+          "zofia",
+          "sofia",
+          "sophia"
+        ]
+      },
+      {
+        "label": "Born in Kraków, Poland",
+        "keys": [
+          "krakow",
+          "kraków",
+          "poland",
+          "polish"
+        ]
+      },
+      {
+        "label": "Mother drove a tram",
+        "keys": [
+          "tram",
+          "tram driver",
+          "streetcar"
+        ]
+      },
+      {
+        "label": "Won a mathematics olympiad at fifteen",
+        "keys": [
+          "olympiad",
+          "mathematics",
+          "math",
+          "maths",
+          "at 15"
+        ]
+      },
+      {
+        "label": "Worked as a cryptographer for a bank in Zurich",
+        "keys": [
+          "cryptographer",
+          "cryptography",
+          "codes",
+          "zurich",
+          "bank"
+        ]
+      },
+      {
+        "label": "Left at forty to open a bookshop in Lyon, France",
+        "keys": [
+          "bookshop",
+          "bookstore",
+          "book shop",
+          "lyon",
+          "at 40"
+        ]
+      },
+      {
+        "label": "The bookshop specializes in antique maps",
+        "keys": [
+          "maps",
+          "map"
+        ]
+      },
+      {
+        "label": "Writes a weekly crossword for a newspaper",
+        "keys": [
+          "crossword",
+          "crosswords",
+          "newspaper"
+        ]
+      },
+      {
+        "label": "Has climbed Mont Blanc three times",
+        "keys": [
+          "mont blanc",
+          "climbed",
+          "climbs",
+          "3 times"
+        ]
+      },
+      {
+        "label": "Rescues injured hedgehogs",
+        "keys": [
+          "hedgehogs",
+          "hedgehog"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "amir",
+    "title": "Amir, the paramedic who makes wine",
+    "text": "Amir was born in Isfahan, Iran, into a family of carpet weavers, and moved to Vancouver when he was eight. He worked as a paramedic for fourteen years until an ambulance rollover on an icy highway left him with a limp and a new outlook. He retrained as a sommelier and now runs a small vineyard on Vancouver Island with his wife Noor, who handles the business side. He collects vintage bicycles and owns fourteen of them, none of which he can ride comfortably. Every Friday he bakes bread for the whole street.",
+    "facts": [
+      {
+        "label": "His name is Amir",
+        "keys": [
+          "amir"
+        ]
+      },
+      {
+        "label": "Born in Isfahan, Iran",
+        "keys": [
+          "isfahan",
+          "iran",
+          "iranian",
+          "persian"
+        ]
+      },
+      {
+        "label": "Family of carpet weavers",
+        "keys": [
+          "carpet",
+          "carpets",
+          "rug",
+          "weavers"
+        ]
+      },
+      {
+        "label": "Moved to Vancouver at eight",
+        "keys": [
+          "vancouver",
+          "at 8",
+          "when he was 8"
+        ]
+      },
+      {
+        "label": "Worked as a paramedic for fourteen years",
+        "keys": [
+          "paramedic",
+          "ambulance",
+          "14 years"
+        ]
+      },
+      {
+        "label": "Injured in an ambulance rollover on an icy highway",
+        "keys": [
+          "rollover",
+          "rolled over",
+          "crash",
+          "icy",
+          "highway",
+          "limp"
+        ]
+      },
+      {
+        "label": "Retrained as a sommelier",
+        "keys": [
+          "sommelier",
+          "wine"
+        ]
+      },
+      {
+        "label": "Runs a vineyard on Vancouver Island with his wife Noor",
+        "keys": [
+          "vineyard",
+          "noor",
+          "vancouver island"
+        ]
+      },
+      {
+        "label": "Collects vintage bicycles (fourteen of them)",
+        "keys": [
+          "bicycles",
+          "bikes",
+          "bicycle",
+          "14 bicycles",
+          "14 bikes"
+        ]
+      },
+      {
+        "label": "Bakes bread for the street every Friday",
+        "keys": [
+          "bread",
+          "bakes",
+          "friday"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "colette",
+    "title": "Colette, the shark tagger who runs a dive school",
+    "text": "Colette was born in Québec City, where her father ran a maple syrup farm with four hundred trees. She studied marine biology in Halifax and then spent eight years tagging great white sharks off the coast of Mozambique. She was bitten once, on the calf, and keeps the scar covered with a tattoo of a compass. She now runs a scuba diving school in Zanzibar and speaks five languages, most of them badly, she insists. Her son Théo is learning to dive, and on Thursday nights she plays in a fiercely competitive table tennis league.",
+    "facts": [
+      {
+        "label": "Her name is Colette",
+        "keys": [
+          "colette",
+          "collette"
+        ]
+      },
+      {
+        "label": "Born in Québec City",
+        "keys": [
+          "quebec",
+          "québec"
+        ]
+      },
+      {
+        "label": "Father ran a maple syrup farm",
+        "keys": [
+          "maple syrup",
+          "maple",
+          "syrup"
+        ]
+      },
+      {
+        "label": "Studied marine biology in Halifax",
+        "keys": [
+          "marine biology",
+          "marine biologist",
+          "biology",
+          "halifax"
+        ]
+      },
+      {
+        "label": "Spent eight years tagging great white sharks off Mozambique",
+        "keys": [
+          "sharks",
+          "shark",
+          "mozambique",
+          "8 years"
+        ]
+      },
+      {
+        "label": "Bitten once on the calf; covered the scar with a compass tattoo",
+        "keys": [
+          "bitten",
+          "bite",
+          "calf",
+          "tattoo",
+          "compass"
+        ]
+      },
+      {
+        "label": "Runs a scuba diving school in Zanzibar",
+        "keys": [
+          "dive school",
+          "diving school",
+          "scuba",
+          "zanzibar",
+          "tanzania"
+        ]
+      },
+      {
+        "label": "Speaks five languages",
+        "keys": [
+          "5 languages",
+          "languages"
+        ]
+      },
+      {
+        "label": "Son Théo is learning to dive",
+        "keys": [
+          "theo",
+          "théo",
+          "son is learning",
+          "son learning"
+        ]
+      },
+      {
+        "label": "Plays in a table tennis league on Thursdays",
+        "keys": [
+          "table tennis",
+          "ping pong",
+          "pingpong"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bart",
+    "title": "Bart, the stonemason in Patagonia",
+    "text": "Bartholomew, who has answered to Bart since he was five, was born in Cardiff, Wales, and sang as a choirboy in the cathedral until his voice broke. He apprenticed as a stonemason and spent twenty years restoring cathedral walls across Britain. On a job in a village in Snowdonia he met Megan, a sheep farmer, and within a year they had moved to Patagonia, in Argentina, where her Welsh-speaking cousins lived. They raise sheep and run a six-room guesthouse. Bart rides a motorcycle to town once a week and still sings bass in the valley choir.",
+    "facts": [
+      {
+        "label": "His name is Bartholomew, known as Bart",
+        "keys": [
+          "bartholomew",
+          "bart"
+        ]
+      },
+      {
+        "label": "Born in Cardiff, Wales",
+        "keys": [
+          "cardiff",
+          "wales",
+          "welsh"
+        ]
+      },
+      {
+        "label": "Sang as a choirboy in the cathedral",
+        "keys": [
+          "choirboy",
+          "choir boy",
+          "choir",
+          "cathedral"
+        ]
+      },
+      {
+        "label": "Apprenticed as a stonemason",
+        "keys": [
+          "stonemason",
+          "stone mason",
+          "mason",
+          "masonry"
+        ]
+      },
+      {
+        "label": "Spent twenty years restoring cathedral walls",
+        "keys": [
+          "20 years",
+          "britain",
+          "cathedrals",
+          "cathedral walls"
+        ]
+      },
+      {
+        "label": "Met Megan, a sheep farmer, in Snowdonia",
+        "keys": [
+          "megan",
+          "snowdonia",
+          "sheep farmer"
+        ]
+      },
+      {
+        "label": "Moved to Patagonia, Argentina",
+        "keys": [
+          "patagonia",
+          "argentina"
+        ]
+      },
+      {
+        "label": "They raise sheep and run a six-room guesthouse",
+        "keys": [
+          "guesthouse",
+          "guest house",
+          "6 rooms",
+          "6 room",
+          "sheep"
+        ]
+      },
+      {
+        "label": "Rides a motorcycle to town weekly",
+        "keys": [
+          "motorcycle",
+          "motorbike"
+        ]
+      },
+      {
+        "label": "Sings bass in the valley choir",
+        "keys": [
+          "bass",
+          "sings"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meiling",
+    "title": "Mei-Ling, from the night market to the control tower",
+    "text": "Mei-Ling grew up in Taipei, Taiwan, helping at her parents' night-market stall, which sold oyster omelets to late-night crowds. She worked as a flight attendant for sixteen years and learned Swahili from a colleague during long layovers in Nairobi. Eventually she moved to Nairobi for good and retrained as an air traffic controller at the international airport. Her husband Joseph is a safari guide. She trains homing pigeons on the roof of their building and builds enormous kites, which she flies at the beach in Mombasa on her days off.",
+    "facts": [
+      {
+        "label": "Her name is Mei-Ling",
+        "keys": [
+          "mei ling",
+          "meiling",
+          "mei"
+        ]
+      },
+      {
+        "label": "Grew up in Taipei, Taiwan",
+        "keys": [
+          "taipei",
+          "taiwan",
+          "taiwanese"
+        ]
+      },
+      {
+        "label": "Parents ran a night-market stall selling oyster omelets",
+        "keys": [
+          "night market",
+          "oyster",
+          "oysters",
+          "omelets",
+          "omelettes",
+          "omelet",
+          "stall"
+        ]
+      },
+      {
+        "label": "Worked as a flight attendant for sixteen years",
+        "keys": [
+          "flight attendant",
+          "stewardess",
+          "air hostess",
+          "cabin crew"
+        ]
+      },
+      {
+        "label": "Learned Swahili during layovers",
+        "keys": [
+          "swahili"
+        ]
+      },
+      {
+        "label": "Moved to Nairobi, Kenya",
+        "keys": [
+          "nairobi",
+          "kenya"
+        ]
+      },
+      {
+        "label": "Retrained as an air traffic controller",
+        "keys": [
+          "air traffic",
+          "air traffic controller",
+          "control tower",
+          "controller"
+        ]
+      },
+      {
+        "label": "Husband Joseph is a safari guide",
+        "keys": [
+          "joseph",
+          "safari"
+        ]
+      },
+      {
+        "label": "Trains homing pigeons on the roof",
+        "keys": [
+          "pigeons",
+          "pigeon"
+        ]
+      },
+      {
+        "label": "Builds and flies enormous kites at Mombasa",
+        "keys": [
+          "kites",
+          "kite",
+          "mombasa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zeke",
+    "title": "Zeke, the drummer turned sound engineer",
+    "text": "Ezekiel, known to everyone as Zeke, grew up in Lagos, Nigeria, sleeping under the cutting table of his mother's tailor shop. He played drums in a highlife band that toured Europe for three summers, and when the band broke up in Berlin he simply stayed. He became a sound engineer and now records film soundtracks in a converted brewery. He married Ilse, a ballet dancer, and they have two daughters who have never once been on time. He builds his own drums out of recycled oil barrels, and every Christmas Day he runs a soup kitchen in Kreuzberg.",
+    "facts": [
+      {
+        "label": "His name is Ezekiel, known as Zeke",
+        "keys": [
+          "ezekiel",
+          "zeke"
+        ]
+      },
+      {
+        "label": "Grew up in Lagos, Nigeria",
+        "keys": [
+          "lagos",
+          "nigeria",
+          "nigerian"
+        ]
+      },
+      {
+        "label": "Mother ran a tailor shop",
+        "keys": [
+          "tailor",
+          "tailoring",
+          "seamstress"
+        ]
+      },
+      {
+        "label": "Played drums in a highlife band that toured Europe",
+        "keys": [
+          "highlife",
+          "drums",
+          "drummer",
+          "toured"
+        ]
+      },
+      {
+        "label": "Stayed in Berlin after the band broke up",
+        "keys": [
+          "berlin"
+        ]
+      },
+      {
+        "label": "Became a sound engineer recording film soundtracks",
+        "keys": [
+          "sound engineer",
+          "soundtracks",
+          "soundtrack",
+          "film soundtracks",
+          "brewery",
+          "movie music"
+        ]
+      },
+      {
+        "label": "Married Ilse, a ballet dancer",
+        "keys": [
+          "ilse",
+          "ballet",
+          "dancer"
+        ]
+      },
+      {
+        "label": "Has two daughters",
+        "keys": [
+          "2 daughters",
+          "daughters"
+        ]
+      },
+      {
+        "label": "Builds drums from recycled oil barrels",
+        "keys": [
+          "oil barrels",
+          "barrels",
+          "barrel"
+        ]
+      },
+      {
+        "label": "Runs a soup kitchen every Christmas",
+        "keys": [
+          "soup kitchen",
+          "christmas",
+          "kreuzberg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "agnes",
+    "title": "Agnes, the midwife with a yacht",
+    "text": "Agnes left school in Glasgow, Scotland, at sixteen to work in a shipyard office, typing invoices for hulls she never saw launched. At twenty-two she emigrated to Wellington, New Zealand, and trained as a midwife. Over the next forty-five years she delivered more than three thousand babies, including triplets during an earthquake when the hospital lights went out. She retired at sixty-seven and bought a small yacht, which she named Thistle and sails alone around the harbor. Her granddaughter Fiona visits on Sundays, mostly for the shortbread Agnes makes from her mother's recipe.",
+    "facts": [
+      {
+        "label": "Her name is Agnes",
+        "keys": [
+          "agnes"
+        ]
+      },
+      {
+        "label": "From Glasgow, Scotland",
+        "keys": [
+          "glasgow",
+          "scotland",
+          "scottish"
+        ]
+      },
+      {
+        "label": "Left school at sixteen to work in a shipyard office",
+        "keys": [
+          "shipyard",
+          "ship yard",
+          "at 16",
+          "invoices"
+        ]
+      },
+      {
+        "label": "Emigrated to Wellington, New Zealand at twenty-two",
+        "keys": [
+          "wellington",
+          "new zealand",
+          "at 22"
+        ]
+      },
+      {
+        "label": "Trained as a midwife",
+        "keys": [
+          "midwife",
+          "midwifery"
+        ]
+      },
+      {
+        "label": "Delivered more than three thousand babies",
+        "keys": [
+          "3000 babies",
+          "3000",
+          "babies"
+        ]
+      },
+      {
+        "label": "Delivered triplets during an earthquake",
+        "keys": [
+          "earthquake",
+          "triplets"
+        ]
+      },
+      {
+        "label": "Retired at sixty-seven",
+        "keys": [
+          "retired at 67",
+          "67"
+        ]
+      },
+      {
+        "label": "Sails a yacht named Thistle",
+        "keys": [
+          "yacht",
+          "thistle",
+          "sails",
+          "sailing"
+        ]
+      },
+      {
+        "label": "Granddaughter Fiona visits for her shortbread",
+        "keys": [
+          "fiona",
+          "granddaughter",
+          "shortbread"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dmitri",
+    "title": "Dmitri, the locksmith with a raven",
+    "text": "Dmitri was born in Odessa, Ukraine, the grandson of a circus strongman who could bend horseshoes. He trained as a concert pianist until a cycling fall at twenty-four damaged two fingers on his right hand. He retrained as a locksmith, discovered he could open almost anything, and eventually opened a museum of historic locks in Prague. He appears on a Czech game show solving fiendish puzzles against the clock. His wife Katya runs the museum café, and their pet raven, Pushkin, has learned to steal keys from visitors' pockets.",
+    "facts": [
+      {
+        "label": "His name is Dmitri",
+        "keys": [
+          "dmitri",
+          "dimitri"
+        ]
+      },
+      {
+        "label": "Born in Odessa, Ukraine",
+        "keys": [
+          "odessa",
+          "ukraine",
+          "ukrainian"
+        ]
+      },
+      {
+        "label": "Grandson of a circus strongman",
+        "keys": [
+          "circus",
+          "strongman",
+          "strong man",
+          "horseshoes"
+        ]
+      },
+      {
+        "label": "Trained as a concert pianist",
+        "keys": [
+          "concert pianist",
+          "pianist",
+          "piano"
+        ]
+      },
+      {
+        "label": "Cycling fall at twenty-four damaged two fingers",
+        "keys": [
+          "fingers",
+          "cycling",
+          "at 24"
+        ]
+      },
+      {
+        "label": "Retrained as a locksmith",
+        "keys": [
+          "locksmith",
+          "locks",
+          "lock"
+        ]
+      },
+      {
+        "label": "Opened a museum of historic locks in Prague",
+        "keys": [
+          "museum",
+          "prague",
+          "czech"
+        ]
+      },
+      {
+        "label": "Appears on a game show solving puzzles",
+        "keys": [
+          "puzzles",
+          "puzzle",
+          "game show"
+        ]
+      },
+      {
+        "label": "Wife Katya runs the museum café",
+        "keys": [
+          "katya",
+          "cafe",
+          "café"
+        ]
+      },
+      {
+        "label": "Pet raven Pushkin steals keys",
+        "keys": [
+          "raven",
+          "pushkin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "esperanza",
+    "title": "Esperanza, the architect who designs saunas",
+    "text": "Esperanza was born in Oaxaca, Mexico, where her mother distilled mezcal in a village still. She studied architecture in Barcelona and made her name with a public library shaped like a seashell. A conference in Helsinki led to a job, then a husband named Mikko, then a permanent address in Finland. She now designs saunas, which she considers the most honest kind of building. She dips into a hole cut in the ice every winter morning, keeps three Finnish Lapphund dogs, and owns a collection of more than two thousand comic books.",
+    "facts": [
+      {
+        "label": "Her name is Esperanza",
+        "keys": [
+          "esperanza"
+        ]
+      },
+      {
+        "label": "Born in Oaxaca, Mexico",
+        "keys": [
+          "oaxaca",
+          "mexico",
+          "mexican"
+        ]
+      },
+      {
+        "label": "Mother distilled mezcal",
+        "keys": [
+          "mezcal",
+          "distilled",
+          "distiller",
+          "distillery"
+        ]
+      },
+      {
+        "label": "Studied architecture in Barcelona",
+        "keys": [
+          "architecture",
+          "architect",
+          "barcelona",
+          "spain"
+        ]
+      },
+      {
+        "label": "Designed a library shaped like a seashell",
+        "keys": [
+          "library",
+          "seashell",
+          "shell"
+        ]
+      },
+      {
+        "label": "Moved to Helsinki, Finland",
+        "keys": [
+          "helsinki",
+          "finland",
+          "finnish"
+        ]
+      },
+      {
+        "label": "Husband named Mikko",
+        "keys": [
+          "mikko"
+        ]
+      },
+      {
+        "label": "Designs saunas",
+        "keys": [
+          "saunas",
+          "sauna"
+        ]
+      },
+      {
+        "label": "Dips into a hole in the ice every winter morning",
+        "keys": [
+          "ice",
+          "hole in the ice",
+          "ice swimming",
+          "dips"
+        ]
+      },
+      {
+        "label": "Keeps three Finnish Lapphund dogs",
+        "keys": [
+          "lapphund",
+          "lapphunds",
+          "finnish dogs",
+          "3 finnish"
+        ]
+      },
+      {
+        "label": "Collection of more than two thousand comic books",
+        "keys": [
+          "comic books",
+          "comics",
+          "2000 comic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "harold",
+    "title": "Harold, the mechanic with a diner in Alaska",
+    "text": "Harold grew up on a potato farm outside Boise, Idaho, and joined the Air Force at eighteen as an aircraft mechanic. He was stationed in Okinawa for five years, where he earned a black belt in karate from a teacher who never once spoke to him in English. After the service he opened a diner in Anchorage, Alaska, famous for sourdough pancakes made from a starter that is older than the state. He and his wife Lorraine have five grandchildren. He carves wooden ducks in the winter and drives a 1962 pickup that he refuses to let anyone else touch.",
+    "facts": [
+      {
+        "label": "His name is Harold",
+        "keys": [
+          "harold"
+        ]
+      },
+      {
+        "label": "Grew up on a potato farm near Boise, Idaho",
+        "keys": [
+          "potato",
+          "potatoes",
+          "boise",
+          "idaho"
+        ]
+      },
+      {
+        "label": "Joined the Air Force at eighteen as an aircraft mechanic",
+        "keys": [
+          "air force",
+          "airforce",
+          "mechanic",
+          "at 18"
+        ]
+      },
+      {
+        "label": "Stationed in Okinawa for five years",
+        "keys": [
+          "okinawa",
+          "5 years"
+        ]
+      },
+      {
+        "label": "Earned a black belt in karate",
+        "keys": [
+          "karate",
+          "black belt"
+        ]
+      },
+      {
+        "label": "Opened a diner in Anchorage, Alaska",
+        "keys": [
+          "diner",
+          "anchorage",
+          "alaska"
+        ]
+      },
+      {
+        "label": "Famous for sourdough pancakes from an old starter",
+        "keys": [
+          "sourdough",
+          "pancakes",
+          "pancake"
+        ]
+      },
+      {
+        "label": "Wife Lorraine; five grandchildren",
+        "keys": [
+          "lorraine",
+          "5 grandchildren",
+          "grandchildren",
+          "grandkids"
+        ]
+      },
+      {
+        "label": "Carves wooden ducks",
+        "keys": [
+          "ducks",
+          "duck",
+          "carves",
+          "carving"
+        ]
+      },
+      {
+        "label": "Drives a 1962 pickup truck",
+        "keys": [
+          "1962",
+          "pickup"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nadia",
+    "title": "Nadia, the filmmaker on skates",
+    "text": "Nadia was born in Casablanca, Morocco, where her father ran the projector at a cinema that showed the same four films for a decade. She became a documentary filmmaker and spent two years following camel racers across the Sahara, which earned her an award at a festival in Amsterdam. She moved to Montréal to teach film at a university and married Louis, a hockey referee. In winter she skates to work along the frozen canal, and she lives with an elderly rabbit named Tangier who has outlasted two apartments and one marriage before this one.",
+    "facts": [
+      {
+        "label": "Her name is Nadia",
+        "keys": [
+          "nadia"
+        ]
+      },
+      {
+        "label": "Born in Casablanca, Morocco",
+        "keys": [
+          "casablanca",
+          "morocco",
+          "moroccan"
+        ]
+      },
+      {
+        "label": "Father ran a cinema projector",
+        "keys": [
+          "projector",
+          "projectionist",
+          "cinema",
+          "movie theater",
+          "movie theatre"
+        ]
+      },
+      {
+        "label": "Became a documentary filmmaker",
+        "keys": [
+          "documentary",
+          "documentaries",
+          "filmmaker",
+          "film maker"
+        ]
+      },
+      {
+        "label": "Spent two years following camel racers across the Sahara",
+        "keys": [
+          "camel",
+          "camels",
+          "sahara"
+        ]
+      },
+      {
+        "label": "Won an award at a festival",
+        "keys": [
+          "award",
+          "festival",
+          "amsterdam"
+        ]
+      },
+      {
+        "label": "Teaches film at a university in Montréal",
+        "keys": [
+          "montreal",
+          "montréal",
+          "university",
+          "teaches film"
+        ]
+      },
+      {
+        "label": "Married Louis, a hockey referee",
+        "keys": [
+          "louis",
+          "hockey",
+          "referee"
+        ]
+      },
+      {
+        "label": "Skates to work along the frozen canal in winter",
+        "keys": [
+          "skates",
+          "skating",
+          "frozen canal"
+        ]
+      },
+      {
+        "label": "Elderly rabbit named Tangier",
+        "keys": [
+          "tangier",
+          "rabbit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finn",
+    "title": "Finn, the lighthouse keeper who builds boats",
+    "text": "Finn was born in Cork, Ireland, the seventh of nine children, and spent his twenties as one of the last lighthouse keepers in the country before the lights were automated. He worked as a deckhand on a ferry for a few years, then followed a girlfriend to Hobart, Tasmania, where the relationship ended but the island stuck. He builds wooden rowing boats by hand and married Siobhán, a harbor master. For nineteen years he ran the quiz night at the same pub, and he fosters kittens for the local shelter, which his dog tolerates with visible disappointment.",
+    "facts": [
+      {
+        "label": "His name is Finn",
+        "keys": [
+          "finn"
+        ]
+      },
+      {
+        "label": "Born in Cork, Ireland",
+        "keys": [
+          "cork",
+          "ireland",
+          "irish"
+        ]
+      },
+      {
+        "label": "Seventh of nine children",
+        "keys": [
+          "9 children",
+          "9 kids",
+          "7th of 9",
+          "seventh of nine",
+          "9 siblings"
+        ]
+      },
+      {
+        "label": "Was one of the last lighthouse keepers in Ireland",
+        "keys": [
+          "lighthouse",
+          "light house"
+        ]
+      },
+      {
+        "label": "Worked as a deckhand on a ferry",
+        "keys": [
+          "deckhand",
+          "deck hand",
+          "ferry"
+        ]
+      },
+      {
+        "label": "Followed a girlfriend to Hobart, Tasmania",
+        "keys": [
+          "hobart",
+          "tasmania",
+          "girlfriend"
+        ]
+      },
+      {
+        "label": "Builds wooden rowing boats by hand",
+        "keys": [
+          "rowing boats",
+          "wooden boats",
+          "boat builder",
+          "builds boats",
+          "rowing"
+        ]
+      },
+      {
+        "label": "Married Siobhán, a harbor master",
+        "keys": [
+          "siobhan",
+          "siobhán",
+          "harbor master",
+          "harbour master"
+        ]
+      },
+      {
+        "label": "Ran a pub quiz night for nineteen years",
+        "keys": [
+          "quiz",
+          "pub",
+          "19 years"
+        ]
+      },
+      {
+        "label": "Fosters kittens for a shelter",
+        "keys": [
+          "kittens",
+          "kitten",
+          "fosters",
+          "foster",
+          "shelter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "valentina",
+    "title": "Valentina, the firefighting helicopter pilot",
+    "text": "Valentina was born in Bogotá, Colombia, and spent school holidays on her uncle's coffee farm in the hills. She learned to fly at twenty-one and spent a decade as a helicopter pilot ferrying crews to oil rigs in the North Sea out of Aberdeen. She now flies a firefighting helicopter in Greece during the summer fire season, dropping water on hillsides above the villages. Her husband Nikos is a beekeeper. In the off season she paints watercolors of the places she has flown over and walks her dog Mango along the harbor at dawn.",
+    "facts": [
+      {
+        "label": "Her name is Valentina",
+        "keys": [
+          "valentina"
+        ]
+      },
+      {
+        "label": "Born in Bogotá, Colombia",
+        "keys": [
+          "bogota",
+          "bogotá",
+          "colombia",
+          "colombian"
+        ]
+      },
+      {
+        "label": "Uncle had a coffee farm",
+        "keys": [
+          "coffee",
+          "uncle"
+        ]
+      },
+      {
+        "label": "Learned to fly at twenty-one",
+        "keys": [
+          "at 21",
+          "learned to fly"
+        ]
+      },
+      {
+        "label": "Flew helicopters to North Sea oil rigs out of Aberdeen",
+        "keys": [
+          "oil rigs",
+          "oil rig",
+          "north sea",
+          "aberdeen"
+        ]
+      },
+      {
+        "label": "Flies a firefighting helicopter in Greece",
+        "keys": [
+          "firefighting",
+          "fire fighting",
+          "fires",
+          "greece",
+          "greek",
+          "helicopter"
+        ]
+      },
+      {
+        "label": "Husband Nikos is a beekeeper",
+        "keys": [
+          "nikos",
+          "beekeeper",
+          "bee keeper"
+        ]
+      },
+      {
+        "label": "Paints watercolors in the off season",
+        "keys": [
+          "watercolors",
+          "watercolours",
+          "watercolor",
+          "watercolour",
+          "paints"
+        ]
+      },
+      {
+        "label": "Walks her dog Mango at the harbor at dawn",
+        "keys": [
+          "mango",
+          "walks her dog",
+          "her dog"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "samuel",
+    "title": "Samuel, the stenographer who runs a wedding chapel",
+    "text": "Samuel was born in Nashville, Tennessee, the son of a Baptist pastor, and played banjo in the church band from the age of ten. He lost the sight in his right eye to a firework at a Fourth of July picnic. He worked for twenty-five years as a court stenographer, typing other people's worst days, before moving to Reno, Nevada, with his wife Dolores. Together they run a wedding chapel and have married more than four thousand couples. He grows cactuses on every flat surface of the chapel and competes in barbecue contests with a brisket recipe he will not share.",
+    "facts": [
+      {
+        "label": "His name is Samuel",
+        "keys": [
+          "samuel",
+          "sam"
+        ]
+      },
+      {
+        "label": "Born in Nashville, Tennessee",
+        "keys": [
+          "nashville",
+          "tennessee"
+        ]
+      },
+      {
+        "label": "Son of a Baptist pastor",
+        "keys": [
+          "pastor",
+          "preacher",
+          "baptist",
+          "minister"
+        ]
+      },
+      {
+        "label": "Played banjo in the church band",
+        "keys": [
+          "banjo",
+          "church"
+        ]
+      },
+      {
+        "label": "Lost sight in his right eye to a firework",
+        "keys": [
+          "right eye",
+          "eye",
+          "firework",
+          "fireworks"
+        ]
+      },
+      {
+        "label": "Worked twenty-five years as a court stenographer",
+        "keys": [
+          "stenographer",
+          "court reporter",
+          "court",
+          "25 years"
+        ]
+      },
+      {
+        "label": "Moved to Reno, Nevada",
+        "keys": [
+          "reno",
+          "nevada"
+        ]
+      },
+      {
+        "label": "Wife Dolores",
+        "keys": [
+          "dolores"
+        ]
+      },
+      {
+        "label": "Runs a wedding chapel; married over four thousand couples",
+        "keys": [
+          "wedding chapel",
+          "chapel",
+          "4000 couples",
+          "4000"
+        ]
+      },
+      {
+        "label": "Grows cactuses",
+        "keys": [
+          "cactus",
+          "cacti",
+          "cactuses"
+        ]
+      },
+      {
+        "label": "Competes in barbecue contests with a brisket recipe",
+        "keys": [
+          "barbecue",
+          "bbq",
+          "brisket"
+        ]
+      }
+    ]
+  }
+]
